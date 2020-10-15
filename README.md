@@ -26,6 +26,11 @@
 
 4. Databases + Indexes
 
+   - RDBMS - MSSQL/MYSQL For relationship and speed of access
+   - NoSql scalability - MongoDB, HBase(supports small write and read)
+   - Cassandra NoSql - Masterless, low downtime
+   - HBase - Minimum five datanodes and one namenode, high maintenance, require the use of JRuby shell and interdependency like ZooKeeper, high learning curve
+
 5. Database Sharding
 
    - For database server(write)
@@ -34,6 +39,8 @@
 6. Load Balancer
 
    - Determine what algo to use like Round Robin, Weighted Round Robin, Consistent Hashing
+
+7. Pagination
 
 ## Basic Steps for Systems Design
 
