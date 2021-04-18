@@ -95,7 +95,7 @@
 # Watch In Order
 1. https://www.youtube.com/watch?v=vvhC64hQZMk Designing WhatsApp
 2. https://www.youtube.com/watch?v=oUJbuFMyBDk Queue
-3. https://www.youtube.com/watch?v=FMhbR_kQeHw Publisher Subscriber Model, drawbacks
+3. https://www.youtube.com/watch?v=FMhbR_kQeHw Publisher Subscriber Model, drawbacks is consistency
 4. https://www.youtube.com/watch?v=GeGxgmPTe4c Distributed consensus
   - ![image](https://user-images.githubusercontent.com/8999633/115142621-602b4b80-a075-11eb-94cd-e0988e0eb0c7.png)
 
