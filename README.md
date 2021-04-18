@@ -98,4 +98,9 @@
 3. https://www.youtube.com/watch?v=FMhbR_kQeHw Publisher Subscriber Model, drawbacks is consistency
 4. https://www.youtube.com/watch?v=GeGxgmPTe4c Distributed consensus
   - ![image](https://user-images.githubusercontent.com/8999633/115142621-602b4b80-a075-11eb-94cd-e0988e0eb0c7.png)
+5. https://www.youtube.com/watch?v=xrizarXJgC8 Avoid cascading failures in a distributed system
+![image](https://user-images.githubusercontent.com/8999633/115150565-82d05b00-a09b-11eb-94d3-cd83a2efccac.png)
+  - Caching
+  - Gradual deployment
+  - Coupling(etc. Save authentication in server memory and assume it works for the next few hours)
 
