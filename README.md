@@ -67,8 +67,6 @@
     - if there is relation
     - read/write heavy
 
-
-
 ## Limitations and solutions
 
 1. Maximum 500 connections for webservers(it will block)
@@ -91,6 +89,13 @@
    - We can maintain latency by pushing contents to cache servers/CDNs
    - Use Cache between Client-Server, Server-Database
    - In addition, for hot users
+
+## Summary
+My framework for system design: 1st clarify the domain to design data model, from there design the CRUD API, from there figure out data flow, R/W frequency, persistency requirements which naturally leads to operations/scaling. In short:  
+1. Data Model
+2. API
+3. Data flow
+4. Scaling
 
 # Watch In Order
 1. https://www.youtube.com/watch?v=vvhC64hQZMk Designing WhatsApp
