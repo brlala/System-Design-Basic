@@ -103,4 +103,4 @@
   - Caching
   - Gradual deployment
   - Coupling(etc. Save authentication in server memory and assume it works for the next few hours)
-
+6. https://www.youtube.com/watch?v=K0Ta65OqQkY What is Load Balancing?
