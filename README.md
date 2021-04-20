@@ -99,11 +99,13 @@ My framework for system design: 1st clarify the domain to design data model, fro
 
 # Watch In Order
 1. https://www.youtube.com/watch?v=vvhC64hQZMk Designing WhatsApp
-2. https://www.youtube.com/watch?v=oUJbuFMyBDk Queue
-3. https://www.youtube.com/watch?v=FMhbR_kQeHw Publisher Subscriber Model, drawbacks is consistency
-4. https://www.youtube.com/watch?v=GeGxgmPTe4c Distributed consensus
+  - ![image](https://user-images.githubusercontent.com/8999633/115363137-c7bbd500-a1f4-11eb-8429-c6214e93d97d.png)
+
+3. https://www.youtube.com/watch?v=oUJbuFMyBDk Queue
+4. https://www.youtube.com/watch?v=FMhbR_kQeHw Publisher Subscriber Model, drawbacks is consistency
+5. https://www.youtube.com/watch?v=GeGxgmPTe4c Distributed consensus
   - ![image](https://user-images.githubusercontent.com/8999633/115142621-602b4b80-a075-11eb-94cd-e0988e0eb0c7.png)
-5. https://www.youtube.com/watch?v=xrizarXJgC8 Avoid cascading failures in a distributed system
+6. https://www.youtube.com/watch?v=xrizarXJgC8 Avoid cascading failures in a distributed system
 ![image](https://user-images.githubusercontent.com/8999633/115150565-82d05b00-a09b-11eb-94d3-cd83a2efccac.png)
   - Caching
   - Gradual deployment
